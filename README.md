@@ -1,3 +1,4 @@
+هشدار - بررسی ها نشان میدهد این سرویس در حال حاضر توسط فایروال ایران و کشور چین مسدود شده !
 <!-- Copyright (c) Meta Platforms, Inc. and affiliates.
 
 License found in the LICENSE file in the root directory
